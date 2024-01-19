@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Hotel Mini Project\Hotel Mini Project\bin\Debug\Hotel Mini Project.exe.config
+C:\Users\Admin\source\repos\Hotel Mini Project\Hotel Mini Project\bin\Debug\Hotel Mini Project.exe
+C:\Users\Admin\source\repos\Hotel Mini Project\Hotel Mini Project\bin\Debug\Hotel Mini Project.pdb
+C:\Users\Admin\source\repos\Hotel Mini Project\Hotel Mini Project\obj\Debug\Hotel Mini Project.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Hotel Mini Project\Hotel Mini Project\obj\Debug\Hotel_Mini_Project.Properties.Resources.resources
+C:\Users\Admin\source\repos\Hotel Mini Project\Hotel Mini Project\obj\Debug\Hotel_Mini_Project.RegisterForm.resources
+C:\Users\Admin\source\repos\Hotel Mini Project\Hotel Mini Project\obj\Debug\Hotel Mini Project.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Hotel Mini Project\Hotel Mini Project\obj\Debug\Hotel Mini Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Hotel Mini Project\Hotel Mini Project\obj\Debug\Hotel Mini Project.exe
+C:\Users\Admin\source\repos\Hotel Mini Project\Hotel Mini Project\obj\Debug\Hotel Mini Project.pdb
+C:\Users\Admin\source\repos\Hotel Mini Project\Hotel Mini Project\obj\Debug\Hotel_Mini_Project.LoginForm.resources
+C:\Users\Admin\source\repos\Hotel Mini Project\Hotel Mini Project\obj\Debug\Hotel_Mini_Project.MainForm.resources
+C:\Users\Admin\source\repos\Hotel Mini Project\Hotel Mini Project\obj\Debug\Hotel_Mini_Project.StartingForm.resources
+C:\Users\Admin\source\repos\Hotel Mini Project\Hotel Mini Project\obj\Debug\Hotel_Mini_Project.NewEntryForm.resources
+C:\Users\Admin\source\repos\Hotel Mini Project\Hotel Mini Project\obj\Debug\Hotel_Mini_Project.Sales_Billing.resources
+C:\Users\Admin\source\repos\Hotel Mini Project\Hotel Mini Project\obj\Debug\Hotel_Mini_Project.Search_Sales.resources
